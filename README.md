@@ -9,7 +9,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/GAVINESHWAR">LinkedIn</a> •
-  <a href="avineshwar2002@gmail.com">Email</a>
+  <a href="mailto:avineshwar2002@gmail.com">Email</a>
 </p>
 
 ![image](https://github.com/GAVINESHWAR/GAVINESHWAR/assets/124431955/de3861d1-cddc-4638-9ec5-09dbb72b30b6)
