@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Coding%20Platforms-LeetCode%2C%20CodeChef%2C%20HackerRank-red">
 </p>
 <p align="center">
-  <a href="https://github.com/GAVINESHWAR">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/g-avineshwar-81a5ba217/">LinkedIn</a> •
   <a href="mailto:avineshwar2002@gmail.com">Email</a>
 </p>
 
@@ -38,8 +38,8 @@ I'm G Avineshwar, a third-year Computer Science Engineering student at JNTUA Col
 
 <h2>🚧 My Latest Projects</h2>
 
-- [Project 1](https://github.com/yourusername/project1): A brief description of what this project does.
-- [Project 2](https://github.com/yourusername/project2): Another project you want to highlight.
+- [Project 1](https://github.com/GAVINESHWAR/CODERSNEXUS): A brief description of what this project does.
+- [Project 2](https://github.com/GAVINESHWAR/CSETech): Another project you want to highlight.
 
 Feel free to explore my repositories to find more of my work.
 
@@ -48,5 +48,5 @@ Feel free to explore my repositories to find more of my work.
 I'm always open to collaborating on interesting projects and learning new things. If you have any opportunities or just want to chat, feel free to reach out. 😊
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile">Let's connect on LinkedIn</a>
+  <a href="https://www.linkedin.com/in/g-avineshwar-81a5ba217/">Let's connect on LinkedIn</a>
 </p>
