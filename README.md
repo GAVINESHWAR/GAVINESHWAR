@@ -16,10 +16,10 @@
 
 ---
 
-I'm G Avineshwar, a third-year Computer Science Engineering student at JNTUA College of Engineering, Anantapur. I'm deeply passionate about Android app development and am continuously enhancing my skills. Here's more about me:
+I'm G Avineshwar, a third-year Computer Science Engineering student at JNTUA College of Engineering, Anantapur. I'm deeply passionate about web development and am continuously enhancing my skills. Here's more about me:
 
-- 🔭 I’m currently working on becoming a proficient Android developer.
-- 🌱 I’m learning Jetpack Compose, Firebase, and Kotlin to create cutting-edge Android applications.
+- 🔭 I’m currently working on becoming a proficient web developer.
+- 🌱 I’m learning React, Bootstrap, and tailwind to create cutting-edge A websites.
 - 👨‍💻 I'm actively participating in coding challenges and competitions on platforms like LeetCode, CodeChef, and HackerRank.
 - 🐍 I also enjoy coding in Python and exploring its various applications.
 
