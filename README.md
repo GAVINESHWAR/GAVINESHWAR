@@ -1,52 +1,37 @@
-<h1 align="center">👋 Hi, I'm G Avineshwar</h1>
+<h1 align="center">Hi 👋, I'm G Avineshwar</h1> 
+<h3 align="start"></h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Student-B.Tech%20CSE-blue">
-  <img src="https://img.shields.io/badge/College-JNTUA%20College%20of%20Engineering%20Anantapur-yellow">
-  <img src="https://img.shields.io/badge/Passionate%20Developer-Android-green">
-  <img src="https://img.shields.io/badge/Learning-Jetpack%20Compose%2C%20Firebase%2C%20Kotlin-informational">
-  <img src="https://img.shields.io/badge/Coding%20Platforms-LeetCode%2C%20CodeChef%2C%20HackerRank-red">
-</p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/g-avineshwar-81a5ba217/">LinkedIn</a> •
-  <a href="mailto:avineshwar2002@gmail.com">Email</a>
-</p>
+# 💫 About Me:
 
-![image](https://github.com/GAVINESHWAR/GAVINESHWAR/assets/124431955/de3861d1-cddc-4638-9ec5-09dbb72b30b6)
+- 🔭 I'm a <b> Aspiring Full stack  web developer </b>
+  
+- 🌱 Currently Learning <b> MERN </b>
+
+- 🌱 Pursuing  *Btech*
+  
+- 👯 I’m looking to collaborate on Full Stack projects
+
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/GAVINESHWAR/)
+
+- 💬 Ask me about *MERN stack, React Native , Open Source*
+
+- 📫 How to reach me *avineshwar2002@gmail.com*
+
+
+
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avineshwarg/)
+
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) [![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) [![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%231a202c.svg?style=for-the-badge&logo=tailwind-css&logoColor=38b2ac)](https://tailwindcss.com/) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) [![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+# 📊 GitHub Stats:
+![](https://komarev.com/ghpvc/?username=Hemu21&abbreviated=true) <br/>
+![](https://github-readme-stats.vercel.app/api?username=GAVINESHWAR&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=GAVINESHWAR&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GAVINESHWAR&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
 
 ---
-
-I'm G Avineshwar, a third-year Computer Science Engineering student at JNTUA College of Engineering, Anantapur. I'm deeply passionate about web development and am continuously enhancing my skills. Here's more about me:
-
-- 🔭 I’m currently working on becoming a proficient web developer.
-- 🌱 I’m learning React, Bootstrap, and tailwind to create cutting-edge A websites.
-- 👨‍💻 I'm actively participating in coding challenges and competitions on platforms like LeetCode, CodeChef, and HackerRank.
-- 🐍 I also enjoy coding in Python and exploring its various applications.
-
-<h2>🚀 What I'm Focusing On</h2>
-
-- 📱 Android App Development with Jetpack Compose and Kotlin.
-- 🚀 Building projects that leverage Firebase for authentication, storage, and database needs.
-- 🐍 Exploring Python for data science and automation.
-- 🌐 Collaborating on open-source projects.
-
-<h2>🌟 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true" alt="GitHub Stats">
-</p>
-
-<h2>🚧 My Latest Projects</h2>
-
-- [Project 1](https://github.com/GAVINESHWAR/CODERSNEXUS): A brief description of what this project does.
-- [Project 2](https://github.com/GAVINESHWAR/CSETech): Another project you want to highlight.
-
-Feel free to explore my repositories to find more of my work.
-
-<h2>💬 Let's Collaborate!</h2>
-
-I'm always open to collaborating on interesting projects and learning new things. If you have any opportunities or just want to chat, feel free to reach out. 😊
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/g-avineshwar-81a5ba217/">Let's connect on LinkedIn</a>
-</p>
