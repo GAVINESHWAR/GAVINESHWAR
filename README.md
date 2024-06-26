@@ -32,6 +32,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=GAVINESHWAR&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GAVINESHWAR&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+###
 
+<h2>Github Trophies 🏆</h2>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=GAVINESHWAR&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
